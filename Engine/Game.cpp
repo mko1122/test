@@ -21,6 +21,8 @@
 #include "MainWindow.h"
 #include "Game.h"
 
+//okay boy
+
 Game::Game( MainWindow& wnd )
 	:
 	wnd( wnd ),
